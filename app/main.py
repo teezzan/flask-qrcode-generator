@@ -27,7 +27,7 @@ def generateqr(data):
         qr = qrcode.QRCode(
             version=None,
             box_size=10,
-            border=5)
+            border=2)
         qr.add_data(data)
         qr.make(fit=True)
         fill = request.args.get('fill') or 'black'
