@@ -72,4 +72,4 @@ Issues and pull requests are welcome at [flask-qrcode-generator](https://github.
 **[Meg Gutshall](https://github.com/meg-gutshall/)** for her README template. Helped a lot.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details.
