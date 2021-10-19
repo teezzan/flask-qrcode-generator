@@ -12,8 +12,8 @@ For example
 
 
 ## Screenshots & Demo.
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5326cdf6298e40fd961865cbb6a02c42" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+https://user-images.githubusercontent.com/25867172/137873992-cfc8835b-1ed9-4b82-9af9-c27636acde64.mp4
 
 ![white](images/img2.png)
 
