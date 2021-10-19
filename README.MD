@@ -1,12 +1,6 @@
-## QRcode Generator.
-
-This project is a **very** simple QRcode generator. It is customisable, fast and very easy to use.
-
 # QueRcode (kyew-ar-kode)
 
 ## A simple,customisable and fast online QRcode generator.
-
-
 
 If you have ever felt like you need a simple qrcode generator that works without any fuss, this is the project for you. 
 All you need to do is attach the string to the main URL of the code as a parameter in the format `{URL}/?text={Text-To-Be_QR-Coded}` . 
