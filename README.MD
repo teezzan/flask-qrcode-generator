@@ -11,8 +11,10 @@ For example
 **Note:** `https://quercode.herokuapp.com/` is an hosted version of this code. It is free and open for everyone. You don't have to host any code yourself.
 
 
-## Screenshots
-![image_1](images/img1.png)
+## Screenshots & Demo.
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5326cdf6298e40fd961865cbb6a02c42" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 ![white](images/img2.png)
 
 ![slack preview](images/slack.png) </br>
